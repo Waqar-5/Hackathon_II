@@ -1,15 +1,19 @@
-Hackathon-II
-Documentation
-Read the given documentation here.
+# Hackathon-II: Todo Application Series
 
-Phase 1 (Completed)
-Build a Todo In-Memory Python Console App
-Phase 2 (Completed)
-Build a Todo Full-Stack Web Application
-Phase 3 (Completed)
-Build a Todo AI-powered Chatbot Application
-Phase 4 (Completed)
-Build a Todo Application with local kubernetes deployment.
-Phase 5 (Working)
-Build a Advance Todo Application with local kubernetes setup and production-ready deployment on cloud.
-These projects are part of a hackathon demonstration of spec-driven development, given by panaverity.
+Welcome to the **Hackathon-II** documentation repository!  
+These projects demonstrate **spec-driven development** as part of a Panaversity Hackathon.  
+Each phase progressively builds on the previous one, adding new features, technologies, and deployment strategies.
+
+---
+
+## 📚 Phases Overview
+
+### **Phase 1: Todo In-Memory Python Console App** ✅ Completed
+- **Description:**  
+  A CLI-based Python application that manages todo tasks entirely **in-memory**.
+- **Key Features:**
+  - Add, update, delete, complete, and view tasks
+  - Simple and intuitive console interface
+  - No persistent storage (Phase-I constraint)
+
+---
